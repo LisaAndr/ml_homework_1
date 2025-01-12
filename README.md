@@ -2,6 +2,7 @@
 ML. Homework 1
 
 В данной работе строятся модели для предсказания стоимости автомобиля (selling_price).
+
 Независимые переменные: name, year, km_driven, fuel, seller_type, transmission, owner, mileage, engine, max_power, torque	и seats.
 
 ### Перед построением моделей был проведён разведочный анализ данных, включая обработку данных:
