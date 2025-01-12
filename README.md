@@ -1,2 +1,2 @@
-# ML.-Homework-1
+# ml_homework_1
 ML. Homework 1
