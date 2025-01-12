@@ -72,7 +72,8 @@ ML. Homework 1
 
 Все задания, включая бонусные, выполнены.
 
-Дашборд находится в файле profiling_report.html
+Дашборд находится в файле profiling_report.html.
+Скриншоты работы FastAPI находятся в папке img_fastapi_ml_hw_1. 
 
 
 
